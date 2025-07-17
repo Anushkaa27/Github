@@ -15,9 +15,6 @@ public:
         //     }
         // }
         // ANOTHER APPROACH:
-        if (n > 0 && not(n & (n - 1))) {
-            return true;
-        }
-        return false;
+        return n > 0 && not(n & (n - 1));
     }
 };
