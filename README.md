@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anushkaa27/Github/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Anushkaa27/Github/tree/master/1319-unique-number-of-occurrences) |
+## Hash Table
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Anushkaa27/Github/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
