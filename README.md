@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Anushkaa27/Github/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Anushkaa27/Github/tree/master/1319-unique-number-of-occurrences) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
