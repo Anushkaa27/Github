@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Anushkaa27/Github/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Anushkaa27/Github/tree/master/0231-power-of-two) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anushkaa27/Github/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anushkaa27/Github/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
