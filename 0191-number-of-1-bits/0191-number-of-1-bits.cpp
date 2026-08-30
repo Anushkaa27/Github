@@ -1,7 +1,7 @@
 class Solution {
 public:
     int hammingWeight(int n) {
-        long count = 0;
+        int count = 0;
         while(n>0){
             if(n&1){
                 count++;
