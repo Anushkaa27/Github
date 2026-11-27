@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Anushkaa27/Github/tree/master/1319-unique-number-of-occurrences) |
@@ -39,9 +40,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
