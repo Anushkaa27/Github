@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anushkaa27/Github/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anushkaa27/Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/Anushkaa27/Github/tree/master/1319-unique-number-of-occurrences) |
@@ -87,4 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anushkaa27/Github/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anushkaa27/Github/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anushkaa27/Github/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anushkaa27/Github/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
