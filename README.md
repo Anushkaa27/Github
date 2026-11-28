@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/Anushkaa27/Github/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anushkaa27/Github/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
 | [1319-unique-number-of-occurrences](https://github.com/Anushkaa27/Github/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -67,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Anushkaa27/Github/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Anushkaa27/Github/tree/master/0443-string-compression) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
