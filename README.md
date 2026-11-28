@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anushkaa27/Github/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Anushkaa27/Github/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anushkaa27/Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Anushkaa27/Github/tree/master/0064-minimum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/Anushkaa27/Github/tree/master/0359-logger-rate-limiter) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Anushkaa27/Github/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
