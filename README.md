@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anushkaa27/Github/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Anushkaa27/Github/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anushkaa27/Github/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
 | [1086-high-five](https://github.com/Anushkaa27/Github/tree/master/1086-high-five) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anushkaa27/Github/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Anushkaa27/Github/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anushkaa27/Github/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Anushkaa27/Github/tree/master/0443-string-compression) |
 ## Linked List
 |  |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-high-five](https://github.com/Anushkaa27/Github/tree/master/1086-high-five) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anushkaa27/Github/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anushkaa27/Github/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
