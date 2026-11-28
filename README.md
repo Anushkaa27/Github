@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anushkaa27/Github/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anushkaa27/Github/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Anushkaa27/Github/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Anushkaa27/Github/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anushkaa27/Github/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Anushkaa27/Github/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
