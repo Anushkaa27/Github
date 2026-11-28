@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anushkaa27/Github/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Anushkaa27/Github/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Anushkaa27/Github/tree/master/0166-fraction-to-recurring-decimal) |
+| [0359-logger-rate-limiter](https://github.com/Anushkaa27/Github/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushkaa27/Github/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anushkaa27/Github/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/Anushkaa27/Github/tree/master/0359-logger-rate-limiter) |
 | [0706-design-hashmap](https://github.com/Anushkaa27/Github/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushkaa27/Github/tree/master/0387-first-unique-character-in-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/Anushkaa27/Github/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
