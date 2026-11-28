@@ -10,10 +10,11 @@ class Solution {
                 sum -= nums[left];
                 left++;
             }
-            int windowLength = right - left + 1;
-                if(windowLength < minLength ){
-                    minLength = windowLength;
-                }
+            minLength = Math.min(minLength, (right - left + 1));
+            // int windowLength = right - left + 1;
+            //     if(windowLength < minLength ){
+            //         minLength = windowLength;
+            //     }
             }
         }
         if(minLength == Integer.MAX_VALUE) {
